@@ -1,2 +1,3 @@
 # utils
-Utils of dx-groups front-end
+
+Utils for dx-groups front-end
