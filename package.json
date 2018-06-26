@@ -10,16 +10,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/elephant-fe/utils.git"
+    "url": "git+https://github.com/dx-groups/utils.git"
   },
   "authors": [
     "alcat2008 <ge_yangyang@126.com> (https://github.com/alcat2008)"
   ],
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/elephant-fe/utils/issues"
+    "url": "https://github.com/dx-groups/utils/issues"
   },
-  "homepage": "https://github.com/elephant-fe/utils#readme",
+  "homepage": "https://github.com/dx-groups/utils#readme",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-plugin-istanbul": "^4.1.6",
